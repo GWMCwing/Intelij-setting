@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="GWMCwing" id="7e9f7f12-5497-4777-96b3-14ee709a0fdf">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
